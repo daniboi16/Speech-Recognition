@@ -13,5 +13,3 @@ First you must download all the audio files in the repository and place them in 
 
 You can find more information about this project in my [Blog](https://danielalapat.hashnode.dev/speech-recognition-using-correlation) 
 
-
-You can find the documentation for my signals and systems project report [Here](https://drive.google.com/file/d/1qzw1NknulX9p1Vn7iKIY43OU99oDXtDT/view?usp=sharing)
